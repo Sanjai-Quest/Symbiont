@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw datasets
+Datasets/
+*.edf
+
+# Generated reconnaissance outputs
+research/reconnaissance/outputs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
