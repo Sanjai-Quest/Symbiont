@@ -1,0 +1,10 @@
+training/tr03-0005/tr03-0005
+training/tr03-0029/tr03-0029
+training/tr03-0052/tr03-0052
+training/tr03-0061/tr03-0061
+training/tr03-0078/tr03-0078
+training/tr03-0079/tr03-0079
+training/tr03-0083/tr03-0083
+training/tr03-0086/tr03-0086
+training/tr03-0087/tr03-0087
+training/tr03-0092/tr03-0092

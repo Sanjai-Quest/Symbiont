@@ -1,0 +1,6 @@
+﻿event_type,matched_events,event_arousals,event_rate,matched_controls,control_arousals,control_rate,absolute_difference,relative_enrichment
+arousal_rera,0,0,,0,0,,,
+resp_centralapnea,0,0,,0,0,,,
+resp_hypopnea,0,0,,0,0,,,
+resp_mixedapnea,0,0,,0,0,,,
+resp_obstructiveapnea,0,0,,0,0,,,
